@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVzdnu/cX6pYUKlpH6sowLM8OAqs/3+ELV/gQJhyBYocwmETIfQQy4oK36T5/1yjH+MRkT/uR/ilyPtu6nisNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andru\\RiderProjects\\Attribute\\Attribute\\Attribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andru\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
